@@ -16,7 +16,7 @@ go inside cloned repository, then install requirements.txt using pip
 
 You can start the bot by typing below command inside the directory
 
-`$ python bot.py`
+`$ python app.py`
 
 ## Add/Edit training data
 
