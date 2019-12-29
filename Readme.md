@@ -20,4 +20,4 @@ You can start the bot by typing below command inside the directory
 
 ## Add/Edit training data
 
-You can add/edit the training data as you see fit in `data/intents.json`
+You can add/edit the training data as you see fit in `bot/data/intents.json`
